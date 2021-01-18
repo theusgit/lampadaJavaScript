@@ -4,6 +4,13 @@ header, .main{
     align-items: center;
 }
 
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .btn{
     width: 80px;
+    margin: 2px;
 }

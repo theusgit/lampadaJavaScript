@@ -1,0 +1,8 @@
+Lampada.js
+
+pegar o id de cada elemento com o getElementeByID ex:
+const turnOn = document.getElementById( 'turnOn ' );
+
+Quando clicar no botão alterar a imagem
+Primeiro adicionar um evento ao turnOn
+dentro do evento escutar o click e lampOn função que faz a lampada ligar
