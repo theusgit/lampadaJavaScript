@@ -6,3 +6,12 @@ const turnOn = document.getElementById( 'turnOn ' );
 Quando clicar no botão alterar a imagem
 Primeiro adicionar um evento ao turnOn
 dentro do evento escutar o click e lampOn função que faz a lampada ligar
+
+criar uma função para trocar
+quando turnOn receber o clique o lampOn vai ser assionado trocando a imagem a partir de lamp que é o id da imagem 
+
+em lamp mouseover para quando o mouse estiver em cima dela ela vai ligar
+e quando for para desligar mouseleave
+
+criar uma evento de quebrar a lampada
+e criar função de quebrar a lampada
