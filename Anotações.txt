@@ -15,3 +15,4 @@ e quando for para desligar mouseleave
 
 criar uma evento de quebrar a lampada
 e criar função de quebrar a lampada
+dblclick é um duplo clic que escuta dois toques
